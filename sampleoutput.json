@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+   "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Thaksin Shinawatra: Ex-Thai PM to face royal insult charges",
+    "description": "The veteran figure of Thai politics only returned to the country last year after 15 years in exile.",
+    "url": "https://www.bbc.co.uk/news/articles/cn44555ly8lo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1ecf/live/97415880-1d86-11ef-8c4d-59db49e3efd7.jpg",
+    "publishedAt": "2024-05-29T14:22:12.5914567Z",
+    "content": "Thailand's former Prime Minister Thaksin Shinawatra will be indicted on charges of insulting the monarchy, the countrys attorney-general has said.\r\nThe controversial political leader, who returned to… [+1420 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Who are the 47 democracy activists facing jail in Hong Kong?",
+    "description": null,
+    "url": "https://www.bbc.co.uk/news/articles/c722wq7rgqgo",
+    "urlToImage": null,
+    "publishedAt": "2024-05-29T13:52:06.7975725Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Summer 2024: Temperatures cross 50C in northern India",
+    "description": "Several parts of northern and central India have recorded soaring temperatures this summer.",
+    "url": "https://www.bbc.co.uk/news/articles/c166xxd4y36o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9cfd/live/0d34ba70-1d85-11ef-80aa-699d54c46324.jpg",
+    "publishedAt": "2024-05-29T12:22:16.6380707Z",
+    "content": "Indian summers, which extend from March to September, are usually hot and humid.\r\nBut the weather department has said the country is likely to experience longer and more intense heatwaves this year.\r… [+123 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nick Carter: Backstreet Boy denies 'outrageous' sex assault claims",
+    "description": "A new TV documentary contains allegations from three women against the Backstreet Boys singer.",
+    "url": "https://www.bbc.co.uk/news/articles/c511l84xdldo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5b69/live/2aa00470-1d94-11ef-a13a-0b8c563da930.jpg",
+    "publishedAt": "2024-05-29T10:37:14.2942371Z",
+    "content": "Lawyers for singer Nick Carter have described claims of sexual assault made against him in a new documentary as \"outrageous\".\r\nFallen Idols: Nick and Aaron Carter, released this week, includes allega… [+2169 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Singapore Airlines plane dropped 178ft in five seconds, black box data reveals",
+    "description": "Rapid changes in gravitational force caused the altitude drop which injured passengers, investigators say.",
+    "url": "https://www.bbc.co.uk/news/articles/c9xx5pj095jo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/aca5/live/7219eca0-1d9c-11ef-baa7-25d483663b8e.jpg",
+    "publishedAt": "2024-05-29T10:07:16.0911577Z",
+    "content": "The Transport Safety Investigation Bureau's (TSIB) preliminary findings said the flight operated as normal until it probably flew over an area of \"developing convective activity\" while passing over t… [+859 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Angel Hernández: Much-vilified MLB umpire calls it quits",
+    "description": "He was widely panned as the worst umpire in the game. But was the criticism fair?",
+    "url": "https://www.bbc.co.uk/news/articles/czqqdw3x469o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7334/live/293a0d70-1d34-11ef-baa7-25d483663b8e.jpg",
+    "publishedAt": "2024-05-29T09:37:13.355666Z",
+    "content": "Now you can see how bad the call is for yourself, Prof Newman says. That adds to the enmity.\r\nThere is further indication that Hernández made the wrong calls, though, Prof Newman says.\r\nDespite being… [+1139 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine war: The children adapting to survive Russia's invasion",
+    "description": "Two years of war takes its toll on Ukraine's younger generations, both physically and emotionally.",
+    "url": "https://www.bbc.co.uk/news/articles/c4nn0jdejw8o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6399/live/1baa1db0-1cfa-11ef-80aa-699d54c46324.jpg",
+    "publishedAt": "2024-05-29T08:52:18.4512411Z",
+    "content": "Eight-year-old Angelina is still in the city, living in the middle of a bomb site.\r\nShes from the Saltivka suburb, which is Daniels home too. When Russian troops first advanced in the region two year… [+845 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "North Korea drops balloons carrying trash and propaganda in South",
+    "description": "The balloons carried toilet paper, batteries and suspected excrement into two border provinces.",
+    "url": "https://www.bbc.co.uk/news/articles/c4nn2p32zrzo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/325e/live/6ff8e990-1d69-11ef-b72a-67fd745fa18f.jpg",
+    "publishedAt": "2024-05-29T04:22:11.1228512Z",
+    "content": "Photographs shared on social media show bags attached via string to white translucent balloons carrying toilet paper, dark soil, and batteries, among other contents. \r\nPolice and military officers ar… [+1392 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US billionaire plans submersible trip to Titanic wreck",
+    "description": "The private submersible industry was shaken after the implosion of the OceanGate Titan sub last year.",
+    "url": "https://www.bbc.co.uk/news/articles/c1vvr76lddxo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/deca/live/68df59a0-1d28-11ef-baa7-25d483663b8e.png",
+    "publishedAt": "2024-05-29T01:22:14.7625978Z",
+    "content": "A US luxury real estate billionaire and a deep-sea explorer are planning to travel in a submersible to explore the Titanic.\r\nOhio tycoon and adventurer Larry Connor and Patrick Lahey, co-founder of T… [+2018 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Israel Gaza: Rafah offensive not a major operation, US says",
+    "description": "It comes after witnesses reported seeing Israeli tanks in the centre of the city on Tuesday.",
+    "url": "https://www.bbc.co.uk/news/articles/cv22pl9p212o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8673/live/ece8ba20-1d32-11ef-be78-33b6b5a17fe2.jpg",
+    "publishedAt": "2024-05-28T22:07:11.4042542Z",
+    "content": "Mr Kirby told journalists that images from Sunday's strike, which killed mostly women, children and elderly people, were \"heartbreaking\" and \"horrific\". \r\n\"There should be no innocent life lost here … [+1907 chars]"
+    }
+    ]
+    }
+    
